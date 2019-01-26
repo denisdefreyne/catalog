@@ -5,6 +5,7 @@ projects:
   - bullet
   - dashing
   - dashing-rails
+  - ddmetrics
   - fnordmetric
   - fozzie
   - fozzie_rails
